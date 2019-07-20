@@ -501,18 +501,20 @@ target="_self" style="cursor: pointer; text-align: center;  font-size:9px;  text
 
 
 
-<div z-index: 2;">
+<div z-index: 3;">
 <script type='text/javascript'>
 (function () {
     window['yandexChatWidgetCallback'] = function() {
         try {
-            window.yandexChatWidget = new Ya.ChatWidget({                
-guid: '48441f6e-97b0-43b4-bb68-d5e97cc2b743',
-                buttonText: '',
+            window.yandexChatWidget = new Ya.ChatWidget({
+                guid: '48441f6e-97b0-43b4-bb68-d5e97cc2b743',
+                buttonText: '&shy;',
                 title: 'ЭМИИА',
                 theme: 'dark',
                 collapsedDesktop: 'never',
-                collapsedTouch: 'always'
+                collapsedTouch: 'never'
+            
+                
             });
         } catch(e) { }
     };
