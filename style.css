@@ -1,0 +1,17 @@
+/* demo page styles */
+body {
+    /*background : url('../img/bgp.jpg');*/
+    margin:0;
+    padding:0;
+}
+.example {
+    position:relative;
+   /* background : url('../img/bgp.jpg');*/
+    /*width:100%;*/
+    overflow:hidden;
+    margin:20px auto;
+    padding:20px;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
