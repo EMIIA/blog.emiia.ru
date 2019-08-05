@@ -631,7 +631,6 @@ function closeNav() {
 
 
 
-
 <!DOCTYPE html>
 <!--
 	NOTES:
@@ -645,7 +644,7 @@ function closeNav() {
 <head>
 <meta charset="UTF-8">
 <meta name="authoring-tool" content="Adobe_Animate_CC">
-<title>ЭМИИА</title>
+<title>Men(короткая нога) символы</title>
 <!-- write your code here -->
 <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
 <script src="https://emiia.github.io/svg/man.js"></script>
@@ -679,7 +678,7 @@ function handleComplete(evt,comp) {
 		function resizeCanvas() {			
 			var w = lib.properties.width, h = lib.properties.height;			
 			var iw = window.innerWidth, ih=window.innerHeight;			
-			var pRatio = window.devicePixelRatio || 1, xRatio=iw/w, yRatio=ih/h, sRatio=0.4;			
+			var pRatio = window.devicePixelRatio || 1, xRatio=iw/w, yRatio=ih/h, sRatio=0.5;			
 			if(isResp) {                
 				if((respDim=='width'&&lastW==iw) || (respDim=='height'&&lastH==ih)) {                    
 					sRatio = lastS;                
@@ -715,10 +714,11 @@ function handleComplete(evt,comp) {
 <!-- write your code here -->
 </head>
 <body onload="init();" style="margin:0px;">
-	<div id="animation_container" style="background-color:rgba(); width:0px; position: relative; margin: auto; align: center;  height:0px">
-<canvas id="canvas" width="0" height="0" style="position: absolute; display: block; background-color:rgba();"></canvas>
-		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:181px; height:320px; position: absolute; left: 0px; top: 0px; display: block;">
+	<div id="animation_container" style="background-color:rgba(); width: px; position: relative; margin: auto; align: center;  height:0px">
+<canvas id="canvas" width="" height="" style="position: absolute; display: block; background-color:rgba();"></canvas>
+		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:0px; height:0px; position: absolute; left: 0px; top: 0px; display: block;">
 		</div>
 	</div>
 </body>
 </html>
+
