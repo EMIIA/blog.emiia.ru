@@ -1,0 +1,50 @@
+<item turbo="true">
+  <title>ЭМИИА AI — когнитивная радиооптика | EMIIA AI — Cognitive Radio optics</title>
+  <link>https://blog.emiia.ru</link>
+  <turbo:content>
+    <![CDATA[
+      <header>
+        <h1>ЭМИИА AI — первое приложение ИИ по распознаванию образов посредством радиоволн</h1>
+        <h2>EMIIA AI — Machine Vision (MV)</h2>
+        <figure>
+          <img src="https://www.emiia.ai/emiia143.svg">
+        </figure>
+        <menu>
+          <a href="https://www.emiia.ru/radiooptics.html">О технологии</a>
+          <a href="https://www.emiia.ru/products.html">Продукты</a>
+          <a href="https://www.emiia.ru/projects.html">Проекты</a>
+        </menu>
+      </header>
+      <h1>Когнитивная радиооптика ЭМИИА</h1>
+      <h2>Базовая технология</h2>
+      <p>Распознавание образов, детекция, вычисление скорости, координат и направления движения объектов (люди, животные, автомобили), посредством радиоволн, в том числе и за радиопрозрачными преградами (стены, препятствия, дождь, снег, туман, темное время суток).</p>
+      <p>Дальность действия: сквозь радиопрозрачные преграды до 9 метров, на открытом пространстве до 300 метров, пассивное обнаружение до 1000 метров. Замещается программно более 30% датчиков и сенсоров, средств AI-навигации, ADAS, автоматизации и безопасности. <a href="https://www.emiia.ru/radiooptics.html"> Подробнее</a></p>
+      <figure>
+        <img src="https://emiia.github.io/1/emiia101.gif">
+        <figcaption>ЭМИИА AI Navigation</figcaption>
+      </figure>
+
+      <figure>
+        <img src="https://emiia.github.io/1/emiia127.gif">
+        <figcaption>ЭМИИА AI Mapping</figcaption>
+      </figure>
+
+      <figure>
+        <img src="https://emiia.github.io/1/emiia115.gif">
+        <figcaption>ЭМИИА AI Sensor</figcaption>
+      </figure>
+
+      <button formaction="tel:+7 (495) 142-18-83"
+              data-background-color="#5B97B0"
+              data-color="white"
+              data-primary="true">Предзаказ</button>
+
+
+</div>
+
+    ]]>
+
+      
+    </turbo:content>
+    
+</item>
